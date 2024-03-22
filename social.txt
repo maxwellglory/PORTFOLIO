@@ -1,0 +1,6 @@
+    <div class="social">
+                        <a href="#"><img src="./images/website.svg" alt=""></a>
+                        <a href="https://www.facebook.com/codersgyan"><img src="./images/facebook.svg" alt=""></a>
+                        <a href="https://twitter.com/CoderGyan"> <img src="./images/twitter.svg" alt=""></a>
+                        <a href="#"> <img src="./images/pintrest.svg" alt=""></a>
+                    </div>
